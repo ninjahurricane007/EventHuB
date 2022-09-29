@@ -10,6 +10,8 @@ BFH/recIuWbYHJ4hUaDlB/2021
 ## Link to product walkthrough
 1. [Code Explanation](https://drive.google.com/file/d/1gdEC4ck7xwKor2sTyMxdnfiyDWyLf7XB/view?usp=sharing)
 2. [Event Portal Explanation](https://www.loom.com/share/40f25da05348437d9c6ee3673855f592?sharedAppSource=personal_library)
+## Link to website
+https://eventhubcollege.herokuapp.com/
 ## How it Works ?
 1. Go to [EventHuB](https://eventhub.ashiqcherian.repl.co/)
 2. Create a new account
